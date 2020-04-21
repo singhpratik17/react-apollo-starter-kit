@@ -1,3 +1,6 @@
+## React-Apollo-Starter Kit
+A starter kit with react, react-router, material-ui, apollo-client, apollo-server and docker configuration.
+
 ## Environment:
 - Client (React, apollo-client) : `http://localhost:3000` 
 - GraphQl Server (Node, graphQl) : `http://localhost:8081`
