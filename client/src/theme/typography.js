@@ -2,11 +2,10 @@
   Typography specifications
  */
 
-import 'circular-std';
 import { colors } from './colors';
 
 export const typography = {
-  fontFamily: 'CircularStd',
+  // fontFamily: '',
 
   h1: {
     fontSize: '1.5rem',
